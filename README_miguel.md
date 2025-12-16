@@ -1,6 +1,6 @@
 # Health & Fitness Analytics Platform - Grand Final Version
 
-**Author:** [Miguel Nemenzo] - Data Analyst/Engineer Portfolio Project  
+**Author:** Miguel Nemenzo - Data Analyst/Engineer Portfolio Project  
 **Date:** December 2025  
 **Version:** 2.0 
 
@@ -27,8 +27,6 @@ This **Grand Final Version** features a production-scale dataset with over **35,
 
 This project utilizes a modern data stack architecture, centered around a three-layer data warehouse in Snowflake.
 
-![Architecture Diagram](docs/architecture.png)  
-*(This diagram can be generated based on the `project_architecture.md`)*
 
 ### Data Flow
 
@@ -147,7 +145,7 @@ Execute the following SQL scripts in your Snowflake worksheet to transform the d
 
 ### Dashboard Design
 
-For a detailed overview of the dashboard design, including KPIs, visualizations, and data model, please refer to the **[Power BI Dashboard Design Document](docs/PowerBI_Dashboard_Design.md)**.
+For a detailed overview of the dashboard design, including KPIs, visualizations, and data model, please refer to the attached power BI PDF. The file is too large so I cannot upload it, but I can provide it upon request.
 
 ---
 
@@ -169,6 +167,6 @@ fitness-analytics-platform/
 
 This project was developed by **[Miguel Nemenzo]** as a portfolio piece to demonstrate skills in data engineering and analytics. For any questions or collaboration inquiries, please feel free to connect.
 
-- **LinkedIn**: [www.linkedin.com/in/miguel-nemenzo-4768a0169]
-- **GitHub**: [https://github.com/mignemenzo]
-- **Portfolio**: [Coming soon!]
+- **LinkedIn**: www.linkedin.com/in/miguel-nemenzo-4768a0169
+- **GitHub**: https://github.com/mignemenzo
+- **Portfolio**: Coming soon!
