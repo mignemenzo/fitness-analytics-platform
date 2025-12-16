@@ -1,0 +1,86 @@
+food_id,name,calories,protein_g,carbs_g,fat_g,fiber_g,sugar_g,serving_size_g,category,source
+FOOD0001,chicken breast,165,31.0,0.0,3.6,0.0,0.0,100,chicken breast,API Ninjas
+FOOD0002,chicken thigh,209,26.0,0.0,11.0,0.0,0.0,100,chicken thigh,API Ninjas
+FOOD0003,ground beef,250,26.0,0.0,17.0,0.0,0.0,100,ground beef,API Ninjas
+FOOD0004,steak,271,25.0,0.0,19.0,0.0,0.0,100,steak,API Ninjas
+FOOD0005,pork chop,250,26.0,0.0,17.0,0.0,0.0,100,pork chop,API Ninjas
+FOOD0006,salmon,206,22.0,0.0,13.0,0.0,0.0,100,salmon,API Ninjas
+FOOD0007,tuna,132,28.0,0.0,1.3,0.0,0.0,100,tuna,API Ninjas
+FOOD0008,tilapia,120,24.0,0.0,2.0,0.0,0.0,100,tilapia,API Ninjas
+FOOD0009,shrimp,120,24.0,0.0,2.0,0.0,0.0,100,shrimp,API Ninjas
+FOOD0010,cod,120,24.0,0.0,2.0,0.0,0.0,100,cod,API Ninjas
+FOOD0011,eggs,155,13.0,1.1,11.0,0.1,0.3,100,eggs,API Ninjas
+FOOD0012,egg whites,100,3.0,15.0,3.0,1.5,4.5,100,egg whites,API Ninjas
+FOOD0013,turkey breast,100,3.0,15.0,3.0,1.5,4.5,100,turkey breast,API Ninjas
+FOOD0014,ground turkey,100,3.0,15.0,3.0,1.5,4.5,100,ground turkey,API Ninjas
+FOOD0015,tofu,100,3.0,15.0,3.0,1.5,4.5,100,tofu,API Ninjas
+FOOD0016,tempeh,100,3.0,15.0,3.0,1.5,4.5,100,tempeh,API Ninjas
+FOOD0017,protein powder,100,3.0,15.0,3.0,1.5,4.5,100,protein powder,API Ninjas
+FOOD0018,cottage cheese,100,3.0,15.0,3.0,1.5,4.5,100,cottage cheese,API Ninjas
+FOOD0019,white rice,130,2.7,28.0,0.3,2.8,8.4,100,white rice,API Ninjas
+FOOD0020,brown rice,112,2.6,24.0,0.9,2.4,7.2,100,brown rice,API Ninjas
+FOOD0021,jasmine rice,120,3.0,25.0,1.0,2.5,7.5,100,jasmine rice,API Ninjas
+FOOD0022,quinoa,120,4.4,21.0,1.9,2.1,6.3,100,quinoa,API Ninjas
+FOOD0023,oatmeal,68,2.4,12.0,1.4,1.2,3.6,100,oatmeal,API Ninjas
+FOOD0024,whole wheat bread,120,3.0,25.0,1.0,2.5,7.5,100,whole wheat bread,API Ninjas
+FOOD0025,white bread,120,3.0,25.0,1.0,2.5,7.5,100,white bread,API Ninjas
+FOOD0026,pasta,131,5.0,25.0,1.1,2.5,7.5,100,pasta,API Ninjas
+FOOD0027,sweet potato,86,1.6,20.0,0.1,2.0,6.0,100,sweet potato,API Ninjas
+FOOD0028,potato,86,1.6,20.0,0.1,2.0,6.0,100,regular potato,API Ninjas
+FOOD0029,couscous,100,3.0,15.0,3.0,1.5,4.5,100,couscous,API Ninjas
+FOOD0030,bagel,100,3.0,15.0,3.0,1.5,4.5,100,bagel,API Ninjas
+FOOD0031,tortilla,100,3.0,15.0,3.0,1.5,4.5,100,tortilla,API Ninjas
+FOOD0032,broccoli,34,2.8,7.0,0.4,0.7,2.1,100,broccoli,API Ninjas
+FOOD0033,spinach,23,2.9,3.6,0.4,0.4,1.1,100,spinach,API Ninjas
+FOOD0034,kale,100,3.0,15.0,3.0,1.5,4.5,100,kale,API Ninjas
+FOOD0035,carrots,25,1.0,5.0,0.2,0.5,1.5,100,carrots,API Ninjas
+FOOD0036,bell pepper,25,1.0,5.0,0.2,0.5,1.5,100,bell pepper,API Ninjas
+FOOD0037,tomato,25,1.0,5.0,0.2,0.5,1.5,100,tomato,API Ninjas
+FOOD0038,cucumber,100,3.0,15.0,3.0,1.5,4.5,100,cucumber,API Ninjas
+FOOD0039,lettuce,25,1.0,5.0,0.2,0.5,1.5,100,lettuce,API Ninjas
+FOOD0040,asparagus,100,3.0,15.0,3.0,1.5,4.5,100,asparagus,API Ninjas
+FOOD0041,green beans,100,3.0,15.0,3.0,1.5,4.5,100,green beans,API Ninjas
+FOOD0042,cauliflower,100,3.0,15.0,3.0,1.5,4.5,100,cauliflower,API Ninjas
+FOOD0043,brussels sprouts,100,3.0,15.0,3.0,1.5,4.5,100,brussels sprouts,API Ninjas
+FOOD0044,zucchini,100,3.0,15.0,3.0,1.5,4.5,100,zucchini,API Ninjas
+FOOD0045,mushrooms,100,3.0,15.0,3.0,1.5,4.5,100,mushrooms,API Ninjas
+FOOD0046,banana,89,1.1,23.0,0.3,2.3,6.9,100,banana,API Ninjas
+FOOD0047,apple,52,0.3,14.0,0.2,1.4,4.2,100,apple,API Ninjas
+FOOD0048,orange,60,0.5,15.0,0.2,1.5,4.5,100,orange,API Ninjas
+FOOD0049,strawberry,60,0.5,15.0,0.2,1.5,4.5,100,strawberry,API Ninjas
+FOOD0050,blueberry,60,0.5,15.0,0.2,1.5,4.5,100,blueberry,API Ninjas
+FOOD0051,mango,100,3.0,15.0,3.0,1.5,4.5,100,mango,API Ninjas
+FOOD0052,pineapple,52,0.3,14.0,0.2,1.4,4.2,100,pineapple,API Ninjas
+FOOD0053,grapes,60,0.5,15.0,0.2,1.5,4.5,100,grapes,API Ninjas
+FOOD0054,watermelon,60,0.5,15.0,0.2,1.5,4.5,100,watermelon,API Ninjas
+FOOD0055,peach,100,3.0,15.0,3.0,1.5,4.5,100,peach,API Ninjas
+FOOD0056,pear,100,3.0,15.0,3.0,1.5,4.5,100,pear,API Ninjas
+FOOD0057,kiwi,100,3.0,15.0,3.0,1.5,4.5,100,kiwi,API Ninjas
+FOOD0058,grapefruit,60,0.5,15.0,0.2,1.5,4.5,100,grapefruit,API Ninjas
+FOOD0059,avocado,160,2.0,8.5,15.0,0.9,2.5,100,avocado,API Ninjas
+FOOD0060,almonds,579,21.0,22.0,50.0,2.2,6.6,100,almonds,API Ninjas
+FOOD0061,walnuts,100,3.0,15.0,3.0,1.5,4.5,100,walnuts,API Ninjas
+FOOD0062,peanut butter,100,3.0,15.0,3.0,1.5,4.5,100,peanut butter,API Ninjas
+FOOD0063,almond butter,100,3.0,15.0,3.0,1.5,4.5,100,almond butter,API Ninjas
+FOOD0064,olive oil,100,3.0,15.0,3.0,1.5,4.5,100,olive oil,API Ninjas
+FOOD0065,coconut oil,100,3.0,15.0,3.0,1.5,4.5,100,coconut oil,API Ninjas
+FOOD0066,chia seeds,100,3.0,15.0,3.0,1.5,4.5,100,chia seeds,API Ninjas
+FOOD0067,flax seeds,100,3.0,15.0,3.0,1.5,4.5,100,flax seeds,API Ninjas
+FOOD0068,cashews,100,3.0,15.0,3.0,1.5,4.5,100,cashews,API Ninjas
+FOOD0069,pecans,100,3.0,15.0,3.0,1.5,4.5,100,pecans,API Ninjas
+FOOD0070,sunflower seeds,100,3.0,15.0,3.0,1.5,4.5,100,sunflower seeds,API Ninjas
+FOOD0071,greek yogurt,59,10.0,3.6,0.4,0.4,1.1,100,greek yogurt,API Ninjas
+FOOD0072,milk,100,3.0,15.0,3.0,1.5,4.5,100,milk,API Ninjas
+FOOD0073,cheese,100,3.0,15.0,3.0,1.5,4.5,100,cheese,API Ninjas
+FOOD0074,mozzarella,100,3.0,15.0,3.0,1.5,4.5,100,mozzarella,API Ninjas
+FOOD0075,cheddar cheese,100,3.0,15.0,3.0,1.5,4.5,100,cheddar cheese,API Ninjas
+FOOD0076,yogurt,59,10.0,3.6,0.4,0.4,1.1,100,yogurt,API Ninjas
+FOOD0077,whey protein,100,3.0,15.0,3.0,1.5,4.5,100,whey protein,API Ninjas
+FOOD0078,butter,100,3.0,15.0,3.0,1.5,4.5,100,butter,API Ninjas
+FOOD0079,granola bar,100,3.0,15.0,3.0,1.5,4.5,100,granola bar,API Ninjas
+FOOD0080,protein bar,100,3.0,15.0,3.0,1.5,4.5,100,protein bar,API Ninjas
+FOOD0081,rice cakes,120,3.0,25.0,1.0,2.5,7.5,100,rice cakes,API Ninjas
+FOOD0082,popcorn,100,3.0,15.0,3.0,1.5,4.5,100,popcorn,API Ninjas
+FOOD0083,dark chocolate,100,3.0,15.0,3.0,1.5,4.5,100,dark chocolate,API Ninjas
+FOOD0084,honey,100,3.0,15.0,3.0,1.5,4.5,100,honey,API Ninjas
+FOOD0085,maple syrup,100,3.0,15.0,3.0,1.5,4.5,100,maple syrup,API Ninjas

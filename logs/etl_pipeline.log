@@ -1,0 +1,29 @@
+2025-12-15 12:54:46,353 - __main__ - INFO - main:526 - 
+======================================================================
+2025-12-15 12:54:46,353 - __main__ - INFO - main:527 - HEALTH & FITNESS ANALYTICS PLATFORM
+2025-12-15 12:54:46,354 - __main__ - INFO - main:528 - ETL Pipeline Execution
+2025-12-15 12:54:46,354 - __main__ - INFO - main:529 - ======================================================================
+2025-12-15 12:54:46,354 - __main__ - INFO - main:532 - 
+⚠️  IMPORTANT: Snowflake Connection Required
+2025-12-15 12:54:46,354 - __main__ - INFO - main:533 - This script requires valid Snowflake credentials in config.py
+2025-12-15 12:54:46,354 - __main__ - INFO - main:534 - Please update SNOWFLAKE_CONFIG with your credentials before running
+2025-12-15 12:54:46,354 - __main__ - INFO - main:535 - 
+For demonstration purposes, this script shows the ETL structure
+2025-12-15 12:54:46,354 - __main__ - INFO - main:536 - In production, it would connect to Snowflake and load the data
+2025-12-15 12:54:46,354 - __main__ - INFO - main:542 - 
+📊 Pipeline Configuration:
+2025-12-15 12:54:46,354 - __main__ - INFO - main:543 -   - Data Directory: /home/ubuntu/fitness_analytics_platform/data
+2025-12-15 12:54:46,354 - __main__ - INFO - main:544 -   - Target Database: RAW_FITNESS_DB
+2025-12-15 12:54:46,354 - __main__ - INFO - main:545 -   - Target Schema: STAGING
+2025-12-15 12:54:46,354 - __main__ - INFO - main:546 -   - Batch ID: 20251215_125446
+2025-12-15 12:54:46,354 - __main__ - INFO - main:548 - 
+📁 Datasets to Process:
+2025-12-15 12:54:46,354 - __main__ - INFO - main:550 -   - exercises: exercises_sample.csv
+2025-12-15 12:54:46,354 - __main__ - INFO - main:550 -   - nutrition: nutrition_sample.csv
+2025-12-15 12:54:46,354 - __main__ - INFO - main:550 -   - members: members_sample.csv
+2025-12-15 12:54:46,354 - __main__ - INFO - main:550 -   - workout_logs: workout_logs_sample.csv
+2025-12-15 12:54:46,354 - __main__ - INFO - main:550 -   - nutrition_logs: nutrition_logs_sample.csv
+2025-12-15 12:54:46,354 - __main__ - INFO - main:550 -   - member_engagement: member_engagement_sample.csv
+2025-12-15 12:54:46,354 - __main__ - INFO - main:552 - 
+✅ ETL Pipeline structure validated successfully!
+2025-12-15 12:54:46,354 - __main__ - INFO - main:553 - Once Snowflake credentials are configured, run this script to load data
