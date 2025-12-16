@@ -1,6 +1,6 @@
 # Health & Fitness Analytics Platform - Project Showcase
 
-**Author:** [Miguel Nemenzo]  
+**Author:** Miguel Nemenzo  
 **Role:** Data Analyst/Engineer  
 **Date:** December 2025
 
@@ -170,7 +170,7 @@ This project serves as a compelling portfolio piece for data analyst and data en
 
 **For more information or to discuss this project, please contact:**
 
-- **Email**: [mignemenzo@gmail.com]
-- **LinkedIn**: [www.linkedin.com/in/miguel-nemenzo-4768a0169]
-- **GitHub**: [https://github.com/mignemenzo]
-- **Portfolio**: [Coming soon!]
+- **Email**: mignemenzo@gmail.com
+- **LinkedIn**: www.linkedin.com/in/miguel-nemenzo-4768a0169
+- **GitHub**: https://github.com/mignemenzo
+- **Portfolio**: Coming soon!
