@@ -115,9 +115,7 @@ This platform is designed to deliver measurable business value across multiple d
 
 ---
 
-## Interview Talking Points
-
-When presenting this project to recruiters or in technical interviews, emphasize these key points:
+## Highlights
 
 **End-to-End Ownership**: "I designed and implemented the complete data pipeline from API integration through to dashboard delivery. This included architecture decisions, data modeling, ETL development, and visualization design."
 
